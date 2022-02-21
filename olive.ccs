@@ -8,6 +8,7 @@ OliveIsASimp
   --darkplus-sec: #4c82cd;
   --darkplus-links: #cdaef3;
   --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/901083326448824320/945380717725114368/ffffff.png);
+  --darkplus-name: #11111;
 }
 
 .bg-1QIAus,
@@ -1294,7 +1295,7 @@ button[aria-label="Send a gift"] {
 .username-3JLfHz,
 .discriminator-2m-MqL,
 .headerTagDiscriminatorNoNickname-dfcvHa {
-  color: var(--darkplus-sec);
+  color: var(--darkplus-name);
 }
 
 .peopleList-2VBrVI,
